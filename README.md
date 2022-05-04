@@ -14,4 +14,4 @@
 
 - Vinyals, O., Toshev, A., Bengio, S., & Erhan, D. (2015). **Show and tell: A neural image caption generator**. 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 3156-3164. [[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
 
-- Sutskever, I., Vinyals, O., & Le, Q. V. (2014). **Sequence to sequence learning with neural networks**. Advances in neural information processing systems, 27.
+- Sutskever, I., Vinyals, O., & Le, Q. V. (2014). **Sequence to sequence learning with neural networks**. Advances in neural information processing systems, 27. [[pdf]](https://arxiv.org/pdf/1409.3215.pdf)
